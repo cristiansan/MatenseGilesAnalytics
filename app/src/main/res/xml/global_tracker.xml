@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <!-- The application name. Defaults to name specified for the application label -->
+    <string name="ga_appName">test.com.analytics</string>
+    <string name="ga_trackingId">UA-63808886-1</string>
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <screenName name="test.com.analytics.MainActivity">
+        Pantalla principal
+    </screenName>
+
+
+</resources>
